@@ -1,6 +1,6 @@
 ### Hi I'm Thiago Pereira 🤙
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoipereira)
-[![LinkedIn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/poxa_thithi)
+
 
 #### I am constantly dedicating my studies to agile methodologies and tools to enhance my work, while also exploring new methods to improve my code, ensuring it remains as semantic and clean as possible for better performance and easier maintenance for my colleagues. I always prioritize teamwork, enjoy sharing knowledge, and am open to constructive feedback in order to continuously grow and become a better professional.
 
